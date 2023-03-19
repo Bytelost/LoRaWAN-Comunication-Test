@@ -1,5 +1,5 @@
 #include "heltec.h"
-#include <Arduindo.h>
+#include <Arduino.h>
 
 void setup() { 
    //WIFI Kit series V1 not support Vext control
